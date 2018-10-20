@@ -1,0 +1,8 @@
+Las Tecnologias que manejo son:
+Sistema Operativos UNIX
+Virtualizadores
+Software de Alta disponibilidad 
+Softwares de Respaldo
+Arreglos de discos
+Subsistemas de disco
+Programacion en: HTML, JavaScript y Bash

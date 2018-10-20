@@ -3,5 +3,6 @@ Correr
 Videojuegos
 Peliculas
 Programar
-Infraextructura
-
+Infraestructura
+Open Source Software
+Squash
